@@ -1,0 +1,19 @@
+body {
+  overflow: hidden;
+}
+
+.header {
+  background-color: #333;
+  height: 10vh;
+}
+
+.main {
+  height: 80vh;
+  background-color: #555555;
+}
+
+.footer {
+  height: 10vh;
+  background-color: #a5a2a2;
+}
+/*# sourceMappingURL=style.css.map */
